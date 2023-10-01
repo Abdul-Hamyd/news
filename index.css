@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ 
+header nav {
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.logo{
+    margin: 20px 20px;
+    height: 40px;
+}
+
+.iconMenu {
+    margin: 10px 20px 10px 20px;
+    padding: 20px 10px;
+}
+ 
+ 
+#first-contain img{
+    margin: 10px 20px;
+}
+
+#first-sec {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 10px 20px;
+}
+
+#sec-sec {
+    color: grey;
+    font-size: 15px;
+    margin: 10px 20px;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+}
+
+#sec-contain button{
+    width: 180px;
+    padding: 5px 0px;
+    height: 40px;
+    font-size: 17px;
+    color: white;
+    background-color: #ff555f;
+    margin: 10px 20px;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    border: none;
+}
+
+#third-contain {
+    background-color: #000018;
+    margin:20px 20px;
+    width: 95%;
+    height: 400px;
+}
+
+#head{
+    color: orange;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 20px 20px;
+}
+
+.same {
+    color:white;
+    font-size: 21px;
+    margin: 20px 20px;
+    font-weight: 600;
+}
+
+.same-a {
+    color: grey;
+    font-size: 15px;
+    padding: 25px 0px;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+hr {
+    width: 100%;
+    text-align: center;
+    color: grey;
+}
+
+#last-cont {
+    display: flex;
+    margin: 15px 0px;
+}
+
+#last-cont img {
+    margin: 10px 20px;
+}
+
+.one{
+    color: grey;
+    margin: 25px 0px;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.rev{
+    color: black;
+    font-size: 20px;
+    margin: 25px 0px;
+    font-weight: 700;
+}
+
+.what{
+    font-size: 15px;
+    margin: 25px 0px;
+    font-weight: 400;
+}
+
+
+#foot {
+    margin: 60px 20px;
+    text-align: center;
+}
